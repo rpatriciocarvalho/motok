@@ -87,7 +87,3 @@ terraform destroy
 ## Dados
 
 Os dados vêm dos dados abertos das prefeituras, inicialmente.
-
-## Licença
-
-A definir.
